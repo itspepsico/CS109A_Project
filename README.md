@@ -1,5 +1,7 @@
 # CS109A_Project
+
 WebLink: https://classifydefaultrate.wordpress.com/
+
 This code is part of Harvard CS109A predicting Probability of Default of a loan
 
 To get data for execution:
